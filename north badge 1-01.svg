@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72.5" style="enable-background:new 0 0 72 72.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{display:none;}
+	.st5{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#EEF4F0;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M36,71C17,71,1.5,55.4,1.5,36.2S17,1.5,36,1.5c19,0,34.5,15.6,34.5,34.7S55,71,36,71z"/>
+		<path d="M36,3c18.2,0,33,14.9,33,33.2S54.2,69.5,36,69.5S3,54.6,3,36.2S17.8,3,36,3 M36,0C16.1,0,0,16.2,0,36.2s16.1,36.2,36,36.2
+			s36-16.2,36-36.2S55.9,0,36,0L36,0z"/>
+	</g>
+	<ellipse cx="36" cy="36.2" rx="29.6" ry="29.8"/>
+	<g>
+		<polygon class="st0" points="31.9,46.2 18.6,52.9 36,18 53.4,52.9 40.1,46.2 36,54.4 		"/>
+		<path d="M36,19.1l16.3,32.6L40.8,46l-0.9-0.4l-0.4,0.9L36,53.3l-3.4-6.9l-0.4-0.9L31.2,46l-11.5,5.8L36,19.1 M36,16.9L17.5,54
+			l14.2-7.1l4.3,8.7l4.3-8.7L54.6,54L36,16.9L36,16.9z"/>
+	</g>
+</g>
+</svg>
